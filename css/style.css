@@ -1,0 +1,45 @@
+body{
+    background: rgb(220, 243, 220);
+    margin-left: 40px;
+    margin-right: 500px;
+}
+
+header{
+    margin-top: 100px;
+}
+
+h3 {
+    color: rgb(105, 165, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+
+}
+
+h4 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+menu{
+    font-size: 80px;
+    color: rgb(105, 165, 255);
+}
+
+p{
+    font-size: 20px;
+    color: red;
+}
+
+footer{
+    margin-bottom: 50px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 400px;
+}
+
+.logo{
+    width: 50px;
+}
